@@ -29,10 +29,6 @@
 
 ###
 
-<p align="center">Hey, i'm WindexJS and I am a software and web developer from the United Kingdom. I spend a lot of my time developing with both WordPress and NodeJS but I am also familiar with a variety of other languages! I started coding back at the start of the coronavirus lockdowns, when I found myself finishing schoolwork before the day was over, and over time I have slowly come to learn many different languages. In the past, I have worked on many different projects, from a rather successful Discord bot called 'SnipR' to a multitool designed to work on school computers. I also have a love for building and selling computers, and this is what I love doing in my spare time! You can see my specs below!<br><br>- 🔭 Currently, I'm a student but will be entering a Web Design and Digital Marketing Apprenticeship!<br><br>- 📚 I'm currently learning to develop programs that make it easier to manage and control Wordpress!<br><br>- ⚡ In my free time I work for a PC building influencer on Instagram, and I also commission websites!</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
